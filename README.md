@@ -1,12 +1,33 @@
 # Window Manager
 
-[![Windows](https://img.shields.io/badge/platform-Windows%2011-0078D6?logo=windows)](https://www.microsoft.com/windows)
-[![Rust](https://img.shields.io/badge/rust-1.70%2B-orange?logo=rust)](https://www.rust-lang.org/)
-[![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+<p align="center">
+    <a href="https://github.com/AlexandrosLiaskos/window-manager/releases/latest/">
+        <img src="https://img.shields.io/badge/Download_Installer-100000?style=for-the-badge&logo=windows&logoColor=white&labelColor=002b36&color=85c8c8"
+            alt="Download Installer"/></a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/AlexandrosLiaskos/window-manager/graphs/contributors">
+        <img src="https://img.shields.io/github/contributors/AlexandrosLiaskos/window-manager?color=%2385c8c8&style=for-the-badge"/></a>
+    <a href="https://github.com/AlexandrosLiaskos/window-manager/blob/main/LICENSE">
+        <img src="https://img.shields.io/github/license/AlexandrosLiaskos/window-manager?color=%2385c8c8&style=for-the-badge"/></a>
+    <a href="https://github.com/AlexandrosLiaskos/window-manager/releases">
+        <img src="https://img.shields.io/github/v/release/AlexandrosLiaskos/window-manager?color=%2385c8c8&style=for-the-badge"
+            alt="latest release version"/></a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/AlexandrosLiaskos/window-manager/stargazers">
+        <img src="https://img.shields.io/github/stars/AlexandrosLiaskos/window-manager?color=%2385c8c8&style=for-the-badge"/></a>
+    <a href="https://github.com/AlexandrosLiaskos/window-manager/network/members">
+        <img src="https://img.shields.io/github/forks/AlexandrosLiaskos/window-manager?color=%2385c8c8&style=for-the-badge"/></a>
+    <a href="https://github.com/AlexandrosLiaskos/window-manager/issues">
+        <img src="https://img.shields.io/github/issues/AlexandrosLiaskos/window-manager?color=%2385c8c8&style=for-the-badge"/></a>
+</p>
+
+---
 
 A lightweight, single-focus window manager for Windows 11. Only one window visible at a time - distraction-free productivity.
-
-![Window Manager Demo](https://via.placeholder.com/800x400?text=Window+Manager+Demo)
 
 ## Features
 
@@ -21,23 +42,17 @@ A lightweight, single-focus window manager for Windows 11. Only one window visib
 
 ### Download Installer
 
-Download the latest installer from [Releases](../../releases):
-
-1. Run `WindowManager-X.X.X-Setup.exe`
-2. Follow the installation wizard
-3. Launch from Start Menu
+1. Click the **Download Installer** button above
+2. Run `WindowManager-X.X.X-Setup.exe`
+3. Follow the installation wizard
+4. Launch from Start Menu
 
 ### Build from Source
 
 ```powershell
-# Clone the repository
-git clone https://github.com/user/window-manager.git
+git clone https://github.com/AlexandrosLiaskos/window-manager.git
 cd window-manager
-
-# Build release
 cargo build --release
-
-# Run
 .\target\release\window-manager.exe
 ```
 
