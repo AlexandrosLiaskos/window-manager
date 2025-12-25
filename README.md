@@ -10,10 +10,6 @@
 </p>
 
 <p align="center">
-    <img src="assets/icon.png" alt="Window Manager Banner" width="256" height="256"/>
-</p>
-
-<p align="center">
     <a href="https://github.com/AlexandrosLiaskos/window-manager/releases/latest/">
         <img src="https://img.shields.io/badge/Download_Installer-100000?style=for-the-badge&logo=windows&logoColor=white&labelColor=002b36&color=85c8c8"
             alt="Download Installer"/></a>
