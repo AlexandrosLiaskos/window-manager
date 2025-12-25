@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/AlexandrosLiaskos/window-manager/releases/latest/">
+    <a href="https://github.com/AlexandrosLiaskos/window-manager/releases/latest/download/WindowManager-0.3.0-Setup.exe">
         <img src="https://img.shields.io/badge/Download_Installer-100000?style=for-the-badge&logo=windows&logoColor=white&labelColor=002b36&color=85c8c8"
             alt="Download Installer"/></a>
 </p>
