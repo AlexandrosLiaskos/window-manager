@@ -1,4 +1,17 @@
-# Window Manager
+<p align="center">
+    <img src="assets/icon.png" alt="Window Manager" width="128" height="128"/>
+</p>
+
+<h1 align="center">Window Manager</h1>
+
+<p align="center">
+    <em>A lightweight, single-focus window manager for Windows 11.<br/>
+    Only one window visible at a time — distraction-free productivity.</em>
+</p>
+
+<p align="center">
+    <img src="assets/icon.png" alt="Window Manager Banner" width="256" height="256"/>
+</p>
 
 <p align="center">
     <a href="https://github.com/AlexandrosLiaskos/window-manager/releases/latest/">
@@ -26,8 +39,6 @@
 </p>
 
 ---
-
-A lightweight, single-focus window manager for Windows 11. Only one window visible at a time - distraction-free productivity.
 
 ## Features
 
