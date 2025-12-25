@@ -45,6 +45,8 @@
 - **Lightweight** - ~2MB, no runtime dependencies
 - **DPI Aware** - Crisp text on high-resolution displays
 
+<img width="2879" height="1799" alt="image" src="https://github.com/user-attachments/assets/e6c9f581-ceb0-4b74-be25-a233060ef5e7" />
+
 ## Installation
 
 ### Download Installer
