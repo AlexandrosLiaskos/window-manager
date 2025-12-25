@@ -1,0 +1,29 @@
+# Window Manager Configuration
+
+[general]
+# Window size as percentage of screen (10-100%)
+# 100% = fullscreen, 95% = small padding, 80% = large padding
+window_size = 95
+
+# Start enabled
+enabled = true
+
+[hotkeys]
+# Toggle window manager ON/OFF
+# When OFF, all windows are restored to normal
+toggle_enabled = "Alt+Shift+M"
+
+[exclusions]
+# Window classes to ignore
+classes = [
+    "Shell_TrayWnd",
+    "Shell_SecondaryTrayWnd",
+    "Progman",
+    "WorkerW",
+    "Windows.UI.Core.CoreWindow",
+]
+
+# Window titles to ignore (substring match)
+titles = [
+    "Program Manager",
+]

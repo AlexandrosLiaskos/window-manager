@@ -1,0 +1,22 @@
+# Build artifacts
+/target/
+Cargo.lock
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Debug logs
+*.log
+wm_debug.log
+
+# Architect/project management (internal)
+.architect/
+.project/
+.backups/
+.serena/
+
+# Generated icon script (keep icon.ico)
+assets/create-icon.ps1
